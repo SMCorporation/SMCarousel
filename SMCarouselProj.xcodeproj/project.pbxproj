@@ -27,6 +27,7 @@
 		306B9F1D18C8EDF400392051 /* SMSimpleCarouselViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 306B9F1B18C8EDF400392051 /* SMSimpleCarouselViewController.xib */; };
 		306B9F2018C8EE1300392051 /* SMExampleCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 306B9F1F18C8EE1300392051 /* SMExampleCell.m */; };
 		306B9F2218C8EE2300392051 /* SMExampleCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 306B9F2118C8EE2300392051 /* SMExampleCell.xib */; };
+		306B9F2B18C8FEEF00392051 /* SMBaseCarouselCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 306B9F2A18C8FEEF00392051 /* SMBaseCarouselCell.m */; };
 		7CE4012167244D548CD43748 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = BAC7FF4162494C8B91BD9D6D /* libPods.a */; };
 /* End PBXBuildFile section */
 
@@ -70,6 +71,8 @@
 		306B9F1E18C8EE1300392051 /* SMExampleCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SMExampleCell.h; sourceTree = "<group>"; };
 		306B9F1F18C8EE1300392051 /* SMExampleCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SMExampleCell.m; sourceTree = "<group>"; };
 		306B9F2118C8EE2300392051 /* SMExampleCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SMExampleCell.xib; sourceTree = "<group>"; };
+		306B9F2918C8FEEF00392051 /* SMBaseCarouselCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SMBaseCarouselCell.h; sourceTree = "<group>"; };
+		306B9F2A18C8FEEF00392051 /* SMBaseCarouselCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SMBaseCarouselCell.m; sourceTree = "<group>"; };
 		4E3DC0E51FCC4C089D535D2E /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = "<group>"; };
 		BAC7FF4162494C8B91BD9D6D /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -185,6 +188,7 @@
 		306B9F0018C8EA6D00392051 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				306B9F2718C8FED000392051 /* Cells */,
 				306B9F0218C8EAAF00392051 /* Carousel */,
 			);
 			path = Views;
@@ -278,6 +282,23 @@
 				306B9F1B18C8EDF400392051 /* SMSimpleCarouselViewController.xib */,
 			);
 			path = Controllers;
+			sourceTree = "<group>";
+		};
+		306B9F2718C8FED000392051 /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				306B9F2818C8FEE300392051 /* BaseCarouselCell */,
+			);
+			path = Cells;
+			sourceTree = "<group>";
+		};
+		306B9F2818C8FEE300392051 /* BaseCarouselCell */ = {
+			isa = PBXGroup;
+			children = (
+				306B9F2918C8FEEF00392051 /* SMBaseCarouselCell.h */,
+				306B9F2A18C8FEEF00392051 /* SMBaseCarouselCell.m */,
+			);
+			path = BaseCarouselCell;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -414,6 +435,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				306B9F2B18C8FEEF00392051 /* SMBaseCarouselCell.m in Sources */,
 				306B9F0518C8EAC300392051 /* SMCarousel.m in Sources */,
 				306B9F1618C8EDBF00392051 /* SMExampleCarouselDataSource.m in Sources */,
 				306B9F0F18C8EC4C00392051 /* SMCarouselDataSource.m in Sources */,

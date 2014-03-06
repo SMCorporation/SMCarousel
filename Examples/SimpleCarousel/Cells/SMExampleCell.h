@@ -7,12 +7,11 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "SMBaseCarouselCell.h"
 
-@interface SMExampleCell : UICollectionViewCell
+@interface SMExampleCell : SMBaseCarouselCell
 
 @property (weak, nonatomic) IBOutlet UILabel *titleLabel;
 @property (weak, nonatomic) IBOutlet UITextView *textView;
-
-+ (CGSize)size;
 
 @end

@@ -7,6 +7,7 @@
 //
 
 #import "SMCarouselDataSource.h"
+#import "SMBaseCarouselCell.h"
 
 static CGFloat const kSpaceBetweenItems = 10;
 
@@ -28,7 +29,7 @@ static CGFloat const kSpaceBetweenItems = 10;
 
 - (Class)classForCellAtIndexPath:(NSIndexPath *)indexPath
 {
-    return [UICollectionViewCell class];
+    return [SMBaseCarouselCell class];
 }
 
 - (void)fillCell:(UICollectionViewCell *)cell atIndexPath:(NSIndexPath *)indexPath
@@ -54,7 +55,11 @@ static CGFloat const kSpaceBetweenItems = 10;
 - (CGSize)collectionView:(UICollectionView *)collectionView
                   layout:(UICollectionViewLayout*)collectionViewLayout sizeForItemAtIndexPath:(NSIndexPath *)indexPath
 {
-    return CGSizeMake(100, 250);
+    Class cellClass = [self classForCellAtIndexPath:indexPath];
+    if([cellClass respondsToSelector:@selector(size)]) {
+        [cellClass size];
+    }
+    return CGSizeZero;
 }
 
 - (CGFloat)collectionView:(UICollectionView *)collectionView layout:(UICollectionViewLayout*)collectionViewLayout minimumInteritemSpacingForSectionAtIndex:(NSInteger)section
