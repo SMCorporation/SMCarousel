@@ -1,0 +1,10 @@
+PODS:
+  - SMDataDiller (0.0.2)
+
+DEPENDENCIES:
+  - SMDataDiller
+
+SPEC CHECKSUMS:
+  SMDataDiller: 8efa3a5e80f4dfc0b772de2988bd64bf698361bc
+
+COCOAPODS: 0.29.0
