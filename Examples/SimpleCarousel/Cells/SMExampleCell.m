@@ -10,13 +10,21 @@
 
 @implementation SMExampleCell
 
-- (id)initWithFrame:(CGRect)frame
++ (SMExampleCell *)createView
 {
-    self = [super initWithFrame:frame];
-    if (self) {
-        // Initialization code
-    }
-    return self;
+    return [[[NSBundle mainBundle] loadNibNamed:NSStringFromClass([SMExampleCell class]) owner:self options:nil] objectAtIndex:0];
+}
+
++ (CGSize)size
+{
+    static CGSize sizeOfView;
+    static dispatch_once_t onceToken;
+    dispatch_once(&onceToken, ^{
+        UIView *view = [self createView]; //make it once, to avoid loading xib everytime, when "+size" will be called
+        sizeOfView = view.frame.size;
+    });
+    
+    return sizeOfView;
 }
 
 @end

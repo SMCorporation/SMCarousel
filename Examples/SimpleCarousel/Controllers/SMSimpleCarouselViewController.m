@@ -8,6 +8,8 @@
 
 #import "SMSimpleCarouselViewController.h"
 #import "SMCarousel.h"
+#import "SMExampleCarouselDataSource.h"
+
 
 @interface SMSimpleCarouselViewController ()
 
@@ -28,9 +30,7 @@
 {
     SMBaseDataProvider *dataProvider = [SMBaseDataProvider new];
     dataProvider.items = @[@"qwerty", @"model2", @"model3", @"model4", @"model5"];
-    self.carousel.dataSource = [[SMCarouselDataSource alloc] initWithDataProvider:dataProvider];
-    
-    [self.carousel.dataSource reload];
+    self.carousel.dataSource = [[SMExampleCarouselDataSource alloc] initWithDataProvider:dataProvider];
 }
 
 @end
