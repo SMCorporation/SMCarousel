@@ -1,1020 +1,640 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>archiveVersion</key>
-	<string>1</string>
-	<key>classes</key>
-	<dict/>
-	<key>objectVersion</key>
-	<string>46</string>
-	<key>objects</key>
-	<dict>
-		<key>306B9EC418C8E8E900392051</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>306B9ED618C8E8E900392051</string>
-				<string>306B9EEF18C8E8E900392051</string>
-				<string>306B9ECF18C8E8E900392051</string>
-				<string>306B9ECE18C8E8E900392051</string>
-				<string>4E3DC0E51FCC4C089D535D2E</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>306B9EC518C8E8E900392051</key>
-		<dict>
-			<key>attributes</key>
-			<dict>
-				<key>CLASSPREFIX</key>
-				<string>SM</string>
-				<key>LastUpgradeCheck</key>
-				<string>0500</string>
-				<key>ORGANIZATIONNAME</key>
-				<string>SM</string>
-				<key>TargetAttributes</key>
-				<dict>
-					<key>306B9EE718C8E8E900392051</key>
-					<dict>
-						<key>TestTargetID</key>
-						<string>306B9ECC18C8E8E900392051</string>
-					</dict>
-				</dict>
-			</dict>
-			<key>buildConfigurationList</key>
-			<string>306B9EC818C8E8E900392051</string>
-			<key>compatibilityVersion</key>
-			<string>Xcode 3.2</string>
-			<key>developmentRegion</key>
-			<string>English</string>
-			<key>hasScannedForEncodings</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXProject</string>
-			<key>knownRegions</key>
-			<array>
-				<string>en</string>
-			</array>
-			<key>mainGroup</key>
-			<string>306B9EC418C8E8E900392051</string>
-			<key>productRefGroup</key>
-			<string>306B9ECE18C8E8E900392051</string>
-			<key>projectDirPath</key>
-			<string></string>
-			<key>projectReferences</key>
-			<array/>
-			<key>projectRoot</key>
-			<string></string>
-			<key>targets</key>
-			<array>
-				<string>306B9ECC18C8E8E900392051</string>
-				<string>306B9EE718C8E8E900392051</string>
-			</array>
-		</dict>
-		<key>306B9EC818C8E8E900392051</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>306B9EF718C8E8E900392051</string>
-				<string>306B9EF818C8E8E900392051</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>306B9EC918C8E8E900392051</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>306B9EE118C8E8E900392051</string>
-				<string>306B9EDD18C8E8E900392051</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>306B9ECA18C8E8E900392051</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>306B9ED318C8E8E900392051</string>
-				<string>306B9ED518C8E8E900392051</string>
-				<string>306B9ED118C8E8E900392051</string>
-				<string>7CE4012167244D548CD43748</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>306B9ECB18C8E8E900392051</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>306B9EDB18C8E8E900392051</string>
-				<string>306B9EE318C8E8E900392051</string>
-			</array>
-			<key>isa</key>
-			<string>PBXResourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>306B9ECC18C8E8E900392051</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>306B9EF918C8E8E900392051</string>
-			<key>buildPhases</key>
-			<array>
-				<string>BDF14A45B9C2466CB1D035E3</string>
-				<string>306B9EC918C8E8E900392051</string>
-				<string>306B9ECA18C8E8E900392051</string>
-				<string>306B9ECB18C8E8E900392051</string>
-				<string>EA019B8D67F74C53A6504329</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>SMCarouselProj</string>
-			<key>productName</key>
-			<string>SMCarouselProj</string>
-			<key>productReference</key>
-			<string>306B9ECD18C8E8E900392051</string>
-			<key>productType</key>
-			<string>com.apple.product-type.application</string>
-		</dict>
-		<key>306B9ECD18C8E8E900392051</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.application</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>SMCarouselProj.app</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>306B9ECE18C8E8E900392051</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>306B9ECD18C8E8E900392051</string>
-				<string>306B9EE818C8E8E900392051</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Products</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>306B9ECF18C8E8E900392051</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>306B9ED018C8E8E900392051</string>
-				<string>306B9ED218C8E8E900392051</string>
-				<string>306B9ED418C8E8E900392051</string>
-				<string>306B9EE918C8E8E900392051</string>
-				<string>BAC7FF4162494C8B91BD9D6D</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Frameworks</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>306B9ED018C8E8E900392051</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>Foundation.framework</string>
-			<key>path</key>
-			<string>System/Library/Frameworks/Foundation.framework</string>
-			<key>sourceTree</key>
-			<string>SDKROOT</string>
-		</dict>
-		<key>306B9ED118C8E8E900392051</key>
-		<dict>
-			<key>fileRef</key>
-			<string>306B9ED018C8E8E900392051</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>306B9ED218C8E8E900392051</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>CoreGraphics.framework</string>
-			<key>path</key>
-			<string>System/Library/Frameworks/CoreGraphics.framework</string>
-			<key>sourceTree</key>
-			<string>SDKROOT</string>
-		</dict>
-		<key>306B9ED318C8E8E900392051</key>
-		<dict>
-			<key>fileRef</key>
-			<string>306B9ED218C8E8E900392051</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>306B9ED418C8E8E900392051</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>UIKit.framework</string>
-			<key>path</key>
-			<string>System/Library/Frameworks/UIKit.framework</string>
-			<key>sourceTree</key>
-			<string>SDKROOT</string>
-		</dict>
-		<key>306B9ED518C8E8E900392051</key>
-		<dict>
-			<key>fileRef</key>
-			<string>306B9ED418C8E8E900392051</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>306B9ED618C8E8E900392051</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>306B9EDF18C8E8E900392051</string>
-				<string>306B9EE018C8E8E900392051</string>
-				<string>306B9EE218C8E8E900392051</string>
-				<string>306B9ED718C8E8E900392051</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>path</key>
-			<string>SMCarouselProj</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>306B9ED718C8E8E900392051</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>306B9ED818C8E8E900392051</string>
-				<string>306B9ED918C8E8E900392051</string>
-				<string>306B9EDC18C8E8E900392051</string>
-				<string>306B9EDE18C8E8E900392051</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Supporting Files</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>306B9ED818C8E8E900392051</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>SMCarouselProj-Info.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>306B9ED918C8E8E900392051</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>306B9EDA18C8E8E900392051</string>
-			</array>
-			<key>isa</key>
-			<string>PBXVariantGroup</string>
-			<key>name</key>
-			<string>InfoPlist.strings</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>306B9EDA18C8E8E900392051</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.strings</string>
-			<key>name</key>
-			<string>en</string>
-			<key>path</key>
-			<string>en.lproj/InfoPlist.strings</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>306B9EDB18C8E8E900392051</key>
-		<dict>
-			<key>fileRef</key>
-			<string>306B9ED918C8E8E900392051</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>306B9EDC18C8E8E900392051</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>main.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>306B9EDD18C8E8E900392051</key>
-		<dict>
-			<key>fileRef</key>
-			<string>306B9EDC18C8E8E900392051</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>306B9EDE18C8E8E900392051</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>SMCarouselProj-Prefix.pch</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>306B9EDF18C8E8E900392051</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>SMAppDelegate.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>306B9EE018C8E8E900392051</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>SMAppDelegate.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>306B9EE118C8E8E900392051</key>
-		<dict>
-			<key>fileRef</key>
-			<string>306B9EE018C8E8E900392051</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>306B9EE218C8E8E900392051</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>folder.assetcatalog</string>
-			<key>path</key>
-			<string>Images.xcassets</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>306B9EE318C8E8E900392051</key>
-		<dict>
-			<key>fileRef</key>
-			<string>306B9EE218C8E8E900392051</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>306B9EE418C8E8E900392051</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>306B9EF618C8E8E900392051</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>306B9EE518C8E8E900392051</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>306B9EEA18C8E8E900392051</string>
-				<string>306B9EEC18C8E8E900392051</string>
-				<string>306B9EEB18C8E8E900392051</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>306B9EE618C8E8E900392051</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>306B9EF418C8E8E900392051</string>
-			</array>
-			<key>isa</key>
-			<string>PBXResourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>306B9EE718C8E8E900392051</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>306B9EFC18C8E8E900392051</string>
-			<key>buildPhases</key>
-			<array>
-				<string>306B9EE418C8E8E900392051</string>
-				<string>306B9EE518C8E8E900392051</string>
-				<string>306B9EE618C8E8E900392051</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array>
-				<string>306B9EEE18C8E8E900392051</string>
-			</array>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>SMCarouselProjTests</string>
-			<key>productName</key>
-			<string>SMCarouselProjTests</string>
-			<key>productReference</key>
-			<string>306B9EE818C8E8E900392051</string>
-			<key>productType</key>
-			<string>com.apple.product-type.bundle.unit-test</string>
-		</dict>
-		<key>306B9EE818C8E8E900392051</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.cfbundle</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>SMCarouselProjTests.xctest</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>306B9EE918C8E8E900392051</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>XCTest.framework</string>
-			<key>path</key>
-			<string>Library/Frameworks/XCTest.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>306B9EEA18C8E8E900392051</key>
-		<dict>
-			<key>fileRef</key>
-			<string>306B9EE918C8E8E900392051</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>306B9EEB18C8E8E900392051</key>
-		<dict>
-			<key>fileRef</key>
-			<string>306B9ED018C8E8E900392051</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>306B9EEC18C8E8E900392051</key>
-		<dict>
-			<key>fileRef</key>
-			<string>306B9ED418C8E8E900392051</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>306B9EED18C8E8E900392051</key>
-		<dict>
-			<key>containerPortal</key>
-			<string>306B9EC518C8E8E900392051</string>
-			<key>isa</key>
-			<string>PBXContainerItemProxy</string>
-			<key>proxyType</key>
-			<string>1</string>
-			<key>remoteGlobalIDString</key>
-			<string>306B9ECC18C8E8E900392051</string>
-			<key>remoteInfo</key>
-			<string>SMCarouselProj</string>
-		</dict>
-		<key>306B9EEE18C8E8E900392051</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXTargetDependency</string>
-			<key>target</key>
-			<string>306B9ECC18C8E8E900392051</string>
-			<key>targetProxy</key>
-			<string>306B9EED18C8E8E900392051</string>
-		</dict>
-		<key>306B9EEF18C8E8E900392051</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>306B9EF518C8E8E900392051</string>
-				<string>306B9EF018C8E8E900392051</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>path</key>
-			<string>SMCarouselProjTests</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>306B9EF018C8E8E900392051</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>306B9EF118C8E8E900392051</string>
-				<string>306B9EF218C8E8E900392051</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Supporting Files</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>306B9EF118C8E8E900392051</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>SMCarouselProjTests-Info.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>306B9EF218C8E8E900392051</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>306B9EF318C8E8E900392051</string>
-			</array>
-			<key>isa</key>
-			<string>PBXVariantGroup</string>
-			<key>name</key>
-			<string>InfoPlist.strings</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>306B9EF318C8E8E900392051</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.strings</string>
-			<key>name</key>
-			<string>en</string>
-			<key>path</key>
-			<string>en.lproj/InfoPlist.strings</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>306B9EF418C8E8E900392051</key>
-		<dict>
-			<key>fileRef</key>
-			<string>306B9EF218C8E8E900392051</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>306B9EF518C8E8E900392051</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>SMCarouselProjTests.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>306B9EF618C8E8E900392051</key>
-		<dict>
-			<key>fileRef</key>
-			<string>306B9EF518C8E8E900392051</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>306B9EF718C8E8E900392051</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>ARCHS</key>
-				<string>$(ARCHS_STANDARD_INCLUDING_64_BIT)</string>
-				<key>CLANG_CXX_LANGUAGE_STANDARD</key>
-				<string>gnu++0x</string>
-				<key>CLANG_CXX_LIBRARY</key>
-				<string>libc++</string>
-				<key>CLANG_ENABLE_MODULES</key>
-				<string>YES</string>
-				<key>CLANG_ENABLE_OBJC_ARC</key>
-				<string>YES</string>
-				<key>CLANG_WARN_BOOL_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_CONSTANT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_DIRECT_OBJC_ISA_USAGE</key>
-				<string>YES_ERROR</string>
-				<key>CLANG_WARN_EMPTY_BODY</key>
-				<string>YES</string>
-				<key>CLANG_WARN_ENUM_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_INT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_OBJC_ROOT_CLASS</key>
-				<string>YES_ERROR</string>
-				<key>CLANG_WARN__DUPLICATE_METHOD_MATCH</key>
-				<string>YES</string>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>NO</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_DYNAMIC_NO_PIC</key>
-				<string>NO</string>
-				<key>GCC_OPTIMIZATION_LEVEL</key>
-				<string>0</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>DEBUG=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
-				<string>NO</string>
-				<key>GCC_WARN_64_TO_32_BIT_CONVERSION</key>
-				<string>YES</string>
-				<key>GCC_WARN_ABOUT_RETURN_TYPE</key>
-				<string>YES_ERROR</string>
-				<key>GCC_WARN_UNDECLARED_SELECTOR</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNINITIALIZED_AUTOS</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_FUNCTION</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_VARIABLE</key>
-				<string>YES</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>7.0</string>
-				<key>ONLY_ACTIVE_ARCH</key>
-				<string>YES</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>306B9EF818C8E8E900392051</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>ARCHS</key>
-				<string>$(ARCHS_STANDARD_INCLUDING_64_BIT)</string>
-				<key>CLANG_CXX_LANGUAGE_STANDARD</key>
-				<string>gnu++0x</string>
-				<key>CLANG_CXX_LIBRARY</key>
-				<string>libc++</string>
-				<key>CLANG_ENABLE_MODULES</key>
-				<string>YES</string>
-				<key>CLANG_ENABLE_OBJC_ARC</key>
-				<string>YES</string>
-				<key>CLANG_WARN_BOOL_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_CONSTANT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_DIRECT_OBJC_ISA_USAGE</key>
-				<string>YES_ERROR</string>
-				<key>CLANG_WARN_EMPTY_BODY</key>
-				<string>YES</string>
-				<key>CLANG_WARN_ENUM_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_INT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_OBJC_ROOT_CLASS</key>
-				<string>YES_ERROR</string>
-				<key>CLANG_WARN__DUPLICATE_METHOD_MATCH</key>
-				<string>YES</string>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>YES</string>
-				<key>ENABLE_NS_ASSERTIONS</key>
-				<string>NO</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_WARN_64_TO_32_BIT_CONVERSION</key>
-				<string>YES</string>
-				<key>GCC_WARN_ABOUT_RETURN_TYPE</key>
-				<string>YES_ERROR</string>
-				<key>GCC_WARN_UNDECLARED_SELECTOR</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNINITIALIZED_AUTOS</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_FUNCTION</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_VARIABLE</key>
-				<string>YES</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>7.0</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>VALIDATE_PRODUCT</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>306B9EF918C8E8E900392051</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>306B9EFA18C8E8E900392051</string>
-				<string>306B9EFB18C8E8E900392051</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>306B9EFA18C8E8E900392051</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>4E3DC0E51FCC4C089D535D2E</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ASSETCATALOG_COMPILER_APPICON_NAME</key>
-				<string>AppIcon</string>
-				<key>ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME</key>
-				<string>LaunchImage</string>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>SMCarouselProj/SMCarouselProj-Prefix.pch</string>
-				<key>INFOPLIST_FILE</key>
-				<string>SMCarouselProj/SMCarouselProj-Info.plist</string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>WRAPPER_EXTENSION</key>
-				<string>app</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>306B9EFB18C8E8E900392051</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>4E3DC0E51FCC4C089D535D2E</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ASSETCATALOG_COMPILER_APPICON_NAME</key>
-				<string>AppIcon</string>
-				<key>ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME</key>
-				<string>LaunchImage</string>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>SMCarouselProj/SMCarouselProj-Prefix.pch</string>
-				<key>INFOPLIST_FILE</key>
-				<string>SMCarouselProj/SMCarouselProj-Info.plist</string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>WRAPPER_EXTENSION</key>
-				<string>app</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>306B9EFC18C8E8E900392051</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>306B9EFD18C8E8E900392051</string>
-				<string>306B9EFE18C8E8E900392051</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>306B9EFD18C8E8E900392051</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>ARCHS</key>
-				<string>$(ARCHS_STANDARD_INCLUDING_64_BIT)</string>
-				<key>BUNDLE_LOADER</key>
-				<string>$(BUILT_PRODUCTS_DIR)/SMCarouselProj.app/SMCarouselProj</string>
-				<key>FRAMEWORK_SEARCH_PATHS</key>
-				<array>
-					<string>$(SDKROOT)/Developer/Library/Frameworks</string>
-					<string>$(inherited)</string>
-					<string>$(DEVELOPER_FRAMEWORKS_DIR)</string>
-				</array>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>SMCarouselProj/SMCarouselProj-Prefix.pch</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>DEBUG=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>INFOPLIST_FILE</key>
-				<string>SMCarouselProjTests/SMCarouselProjTests-Info.plist</string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>TEST_HOST</key>
-				<string>$(BUNDLE_LOADER)</string>
-				<key>WRAPPER_EXTENSION</key>
-				<string>xctest</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>306B9EFE18C8E8E900392051</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>ARCHS</key>
-				<string>$(ARCHS_STANDARD_INCLUDING_64_BIT)</string>
-				<key>BUNDLE_LOADER</key>
-				<string>$(BUILT_PRODUCTS_DIR)/SMCarouselProj.app/SMCarouselProj</string>
-				<key>FRAMEWORK_SEARCH_PATHS</key>
-				<array>
-					<string>$(SDKROOT)/Developer/Library/Frameworks</string>
-					<string>$(inherited)</string>
-					<string>$(DEVELOPER_FRAMEWORKS_DIR)</string>
-				</array>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>SMCarouselProj/SMCarouselProj-Prefix.pch</string>
-				<key>INFOPLIST_FILE</key>
-				<string>SMCarouselProjTests/SMCarouselProjTests-Info.plist</string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>TEST_HOST</key>
-				<string>$(BUNDLE_LOADER)</string>
-				<key>WRAPPER_EXTENSION</key>
-				<string>xctest</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>4E3DC0E51FCC4C089D535D2E</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>name</key>
-			<string>Pods.xcconfig</string>
-			<key>path</key>
-			<string>Pods/Pods.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7CE4012167244D548CD43748</key>
-		<dict>
-			<key>fileRef</key>
-			<string>BAC7FF4162494C8B91BD9D6D</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>BAC7FF4162494C8B91BD9D6D</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>archive.ar</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>libPods.a</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>BDF14A45B9C2466CB1D035E3</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>inputPaths</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXShellScriptBuildPhase</string>
-			<key>name</key>
-			<string>Check Pods Manifest.lock</string>
-			<key>outputPaths</key>
-			<array/>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-			<key>shellPath</key>
-			<string>/bin/sh</string>
-			<key>shellScript</key>
-			<string>diff "${PODS_ROOT}/../Podfile.lock" "${PODS_ROOT}/Manifest.lock" &gt; /dev/null
-if [[ $? != 0 ]] ; then
-    cat &lt;&lt; EOM
-error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.
-EOM
-    exit 1
-fi
-</string>
-			<key>showEnvVarsInLog</key>
-			<string>0</string>
-		</dict>
-		<key>EA019B8D67F74C53A6504329</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>inputPaths</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXShellScriptBuildPhase</string>
-			<key>name</key>
-			<string>Copy Pods Resources</string>
-			<key>outputPaths</key>
-			<array/>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-			<key>shellPath</key>
-			<string>/bin/sh</string>
-			<key>shellScript</key>
-			<string>"${SRCROOT}/Pods/Pods-resources.sh"
-</string>
-			<key>showEnvVarsInLog</key>
-			<string>0</string>
-		</dict>
-	</dict>
-	<key>rootObject</key>
-	<string>306B9EC518C8E8E900392051</string>
-</dict>
-</plist>
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		306B9ED118C8E8E900392051 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 306B9ED018C8E8E900392051 /* Foundation.framework */; };
+		306B9ED318C8E8E900392051 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 306B9ED218C8E8E900392051 /* CoreGraphics.framework */; };
+		306B9ED518C8E8E900392051 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 306B9ED418C8E8E900392051 /* UIKit.framework */; };
+		306B9EDB18C8E8E900392051 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 306B9ED918C8E8E900392051 /* InfoPlist.strings */; };
+		306B9EDD18C8E8E900392051 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 306B9EDC18C8E8E900392051 /* main.m */; };
+		306B9EE118C8E8E900392051 /* SMAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 306B9EE018C8E8E900392051 /* SMAppDelegate.m */; };
+		306B9EE318C8E8E900392051 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 306B9EE218C8E8E900392051 /* Images.xcassets */; };
+		306B9EEA18C8E8E900392051 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 306B9EE918C8E8E900392051 /* XCTest.framework */; };
+		306B9EEB18C8E8E900392051 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 306B9ED018C8E8E900392051 /* Foundation.framework */; };
+		306B9EEC18C8E8E900392051 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 306B9ED418C8E8E900392051 /* UIKit.framework */; };
+		306B9EF418C8E8E900392051 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 306B9EF218C8E8E900392051 /* InfoPlist.strings */; };
+		306B9EF618C8E8E900392051 /* SMCarouselProjTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 306B9EF518C8E8E900392051 /* SMCarouselProjTests.m */; };
+		306B9F0518C8EAC300392051 /* SMCarousel.m in Sources */ = {isa = PBXBuildFile; fileRef = 306B9F0418C8EAC300392051 /* SMCarousel.m */; };
+		306B9F0718C8EAD100392051 /* SMCarousel.xib in Resources */ = {isa = PBXBuildFile; fileRef = 306B9F0618C8EAD100392051 /* SMCarousel.xib */; };
+		306B9F0F18C8EC4C00392051 /* SMCarouselDataSource.m in Sources */ = {isa = PBXBuildFile; fileRef = 306B9F0E18C8EC4C00392051 /* SMCarouselDataSource.m */; };
+		306B9F1618C8EDBF00392051 /* SMExampleCarouselDataSource.m in Sources */ = {isa = PBXBuildFile; fileRef = 306B9F1518C8EDBF00392051 /* SMExampleCarouselDataSource.m */; };
+		306B9F1C18C8EDF400392051 /* SMSimpleCarouselViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 306B9F1A18C8EDF400392051 /* SMSimpleCarouselViewController.m */; };
+		306B9F1D18C8EDF400392051 /* SMSimpleCarouselViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 306B9F1B18C8EDF400392051 /* SMSimpleCarouselViewController.xib */; };
+		306B9F2018C8EE1300392051 /* SMExampleCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 306B9F1F18C8EE1300392051 /* SMExampleCell.m */; };
+		306B9F2218C8EE2300392051 /* SMExampleCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 306B9F2118C8EE2300392051 /* SMExampleCell.xib */; };
+		7CE4012167244D548CD43748 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = BAC7FF4162494C8B91BD9D6D /* libPods.a */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		306B9EED18C8E8E900392051 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 306B9EC518C8E8E900392051 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 306B9ECC18C8E8E900392051;
+			remoteInfo = SMCarouselProj;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		306B9ECD18C8E8E900392051 /* SMCarouselProj.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SMCarouselProj.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		306B9ED018C8E8E900392051 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		306B9ED218C8E8E900392051 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		306B9ED418C8E8E900392051 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		306B9ED818C8E8E900392051 /* SMCarouselProj-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SMCarouselProj-Info.plist"; sourceTree = "<group>"; };
+		306B9EDA18C8E8E900392051 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		306B9EDC18C8E8E900392051 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		306B9EDE18C8E8E900392051 /* SMCarouselProj-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SMCarouselProj-Prefix.pch"; sourceTree = "<group>"; };
+		306B9EDF18C8E8E900392051 /* SMAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SMAppDelegate.h; sourceTree = "<group>"; };
+		306B9EE018C8E8E900392051 /* SMAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SMAppDelegate.m; sourceTree = "<group>"; };
+		306B9EE218C8E8E900392051 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		306B9EE818C8E8E900392051 /* SMCarouselProjTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SMCarouselProjTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		306B9EE918C8E8E900392051 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		306B9EF118C8E8E900392051 /* SMCarouselProjTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SMCarouselProjTests-Info.plist"; sourceTree = "<group>"; };
+		306B9EF318C8E8E900392051 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		306B9EF518C8E8E900392051 /* SMCarouselProjTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SMCarouselProjTests.m; sourceTree = "<group>"; };
+		306B9F0318C8EAC300392051 /* SMCarousel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SMCarousel.h; sourceTree = "<group>"; };
+		306B9F0418C8EAC300392051 /* SMCarousel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SMCarousel.m; sourceTree = "<group>"; };
+		306B9F0618C8EAD100392051 /* SMCarousel.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SMCarousel.xib; sourceTree = "<group>"; };
+		306B9F0D18C8EC4C00392051 /* SMCarouselDataSource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SMCarouselDataSource.h; sourceTree = "<group>"; };
+		306B9F0E18C8EC4C00392051 /* SMCarouselDataSource.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SMCarouselDataSource.m; sourceTree = "<group>"; };
+		306B9F1418C8EDBF00392051 /* SMExampleCarouselDataSource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SMExampleCarouselDataSource.h; sourceTree = "<group>"; };
+		306B9F1518C8EDBF00392051 /* SMExampleCarouselDataSource.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SMExampleCarouselDataSource.m; sourceTree = "<group>"; };
+		306B9F1918C8EDF400392051 /* SMSimpleCarouselViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SMSimpleCarouselViewController.h; sourceTree = "<group>"; };
+		306B9F1A18C8EDF400392051 /* SMSimpleCarouselViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SMSimpleCarouselViewController.m; sourceTree = "<group>"; };
+		306B9F1B18C8EDF400392051 /* SMSimpleCarouselViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SMSimpleCarouselViewController.xib; sourceTree = "<group>"; };
+		306B9F1E18C8EE1300392051 /* SMExampleCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SMExampleCell.h; sourceTree = "<group>"; };
+		306B9F1F18C8EE1300392051 /* SMExampleCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SMExampleCell.m; sourceTree = "<group>"; };
+		306B9F2118C8EE2300392051 /* SMExampleCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SMExampleCell.xib; sourceTree = "<group>"; };
+		4E3DC0E51FCC4C089D535D2E /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = "<group>"; };
+		BAC7FF4162494C8B91BD9D6D /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		306B9ECA18C8E8E900392051 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				306B9ED318C8E8E900392051 /* CoreGraphics.framework in Frameworks */,
+				306B9ED518C8E8E900392051 /* UIKit.framework in Frameworks */,
+				306B9ED118C8E8E900392051 /* Foundation.framework in Frameworks */,
+				7CE4012167244D548CD43748 /* libPods.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		306B9EE518C8E8E900392051 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				306B9EEA18C8E8E900392051 /* XCTest.framework in Frameworks */,
+				306B9EEC18C8E8E900392051 /* UIKit.framework in Frameworks */,
+				306B9EEB18C8E8E900392051 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		306B9EC418C8E8E900392051 = {
+			isa = PBXGroup;
+			children = (
+				306B9F1018C8ED5C00392051 /* Examples */,
+				306B9ED618C8E8E900392051 /* SMCarouselProj */,
+				306B9EEF18C8E8E900392051 /* SMCarouselProjTests */,
+				306B9ECF18C8E8E900392051 /* Frameworks */,
+				306B9ECE18C8E8E900392051 /* Products */,
+				4E3DC0E51FCC4C089D535D2E /* Pods.xcconfig */,
+			);
+			sourceTree = "<group>";
+		};
+		306B9ECE18C8E8E900392051 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				306B9ECD18C8E8E900392051 /* SMCarouselProj.app */,
+				306B9EE818C8E8E900392051 /* SMCarouselProjTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		306B9ECF18C8E8E900392051 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				306B9ED018C8E8E900392051 /* Foundation.framework */,
+				306B9ED218C8E8E900392051 /* CoreGraphics.framework */,
+				306B9ED418C8E8E900392051 /* UIKit.framework */,
+				306B9EE918C8E8E900392051 /* XCTest.framework */,
+				BAC7FF4162494C8B91BD9D6D /* libPods.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		306B9ED618C8E8E900392051 /* SMCarouselProj */ = {
+			isa = PBXGroup;
+			children = (
+				306B9EFF18C8EA2F00392051 /* Code */,
+				306B9EDF18C8E8E900392051 /* SMAppDelegate.h */,
+				306B9EE018C8E8E900392051 /* SMAppDelegate.m */,
+				306B9EE218C8E8E900392051 /* Images.xcassets */,
+				306B9ED718C8E8E900392051 /* Supporting Files */,
+			);
+			path = SMCarouselProj;
+			sourceTree = "<group>";
+		};
+		306B9ED718C8E8E900392051 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				306B9ED818C8E8E900392051 /* SMCarouselProj-Info.plist */,
+				306B9ED918C8E8E900392051 /* InfoPlist.strings */,
+				306B9EDC18C8E8E900392051 /* main.m */,
+				306B9EDE18C8E8E900392051 /* SMCarouselProj-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		306B9EEF18C8E8E900392051 /* SMCarouselProjTests */ = {
+			isa = PBXGroup;
+			children = (
+				306B9EF518C8E8E900392051 /* SMCarouselProjTests.m */,
+				306B9EF018C8E8E900392051 /* Supporting Files */,
+			);
+			path = SMCarouselProjTests;
+			sourceTree = "<group>";
+		};
+		306B9EF018C8E8E900392051 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				306B9EF118C8E8E900392051 /* SMCarouselProjTests-Info.plist */,
+				306B9EF218C8E8E900392051 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		306B9EFF18C8EA2F00392051 /* Code */ = {
+			isa = PBXGroup;
+			children = (
+				306B9F0118C8EA8000392051 /* DataDillers */,
+				306B9F0018C8EA6D00392051 /* Views */,
+			);
+			path = Code;
+			sourceTree = "<group>";
+		};
+		306B9F0018C8EA6D00392051 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				306B9F0218C8EAAF00392051 /* Carousel */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		306B9F0118C8EA8000392051 /* DataDillers */ = {
+			isa = PBXGroup;
+			children = (
+				306B9F0818C8EC2600392051 /* DataSources */,
+			);
+			path = DataDillers;
+			sourceTree = "<group>";
+		};
+		306B9F0218C8EAAF00392051 /* Carousel */ = {
+			isa = PBXGroup;
+			children = (
+				306B9F0318C8EAC300392051 /* SMCarousel.h */,
+				306B9F0418C8EAC300392051 /* SMCarousel.m */,
+				306B9F0618C8EAD100392051 /* SMCarousel.xib */,
+			);
+			path = Carousel;
+			sourceTree = "<group>";
+		};
+		306B9F0818C8EC2600392051 /* DataSources */ = {
+			isa = PBXGroup;
+			children = (
+				306B9F0918C8EC2A00392051 /* SMCarousel */,
+			);
+			path = DataSources;
+			sourceTree = "<group>";
+		};
+		306B9F0918C8EC2A00392051 /* SMCarousel */ = {
+			isa = PBXGroup;
+			children = (
+				306B9F0D18C8EC4C00392051 /* SMCarouselDataSource.h */,
+				306B9F0E18C8EC4C00392051 /* SMCarouselDataSource.m */,
+			);
+			path = SMCarousel;
+			sourceTree = "<group>";
+		};
+		306B9F1018C8ED5C00392051 /* Examples */ = {
+			isa = PBXGroup;
+			children = (
+				306B9F1118C8ED7400392051 /* SimpleCarousel */,
+			);
+			path = Examples;
+			sourceTree = "<group>";
+		};
+		306B9F1118C8ED7400392051 /* SimpleCarousel */ = {
+			isa = PBXGroup;
+			children = (
+				306B9F1718C8EDCF00392051 /* Cells */,
+				306B9F1818C8EDDA00392051 /* Controllers */,
+				306B9F1218C8ED8900392051 /* DataDillers */,
+			);
+			path = SimpleCarousel;
+			sourceTree = "<group>";
+		};
+		306B9F1218C8ED8900392051 /* DataDillers */ = {
+			isa = PBXGroup;
+			children = (
+				306B9F1318C8ED9800392051 /* DataSource */,
+			);
+			path = DataDillers;
+			sourceTree = "<group>";
+		};
+		306B9F1318C8ED9800392051 /* DataSource */ = {
+			isa = PBXGroup;
+			children = (
+				306B9F1418C8EDBF00392051 /* SMExampleCarouselDataSource.h */,
+				306B9F1518C8EDBF00392051 /* SMExampleCarouselDataSource.m */,
+			);
+			path = DataSource;
+			sourceTree = "<group>";
+		};
+		306B9F1718C8EDCF00392051 /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				306B9F1E18C8EE1300392051 /* SMExampleCell.h */,
+				306B9F1F18C8EE1300392051 /* SMExampleCell.m */,
+				306B9F2118C8EE2300392051 /* SMExampleCell.xib */,
+			);
+			path = Cells;
+			sourceTree = "<group>";
+		};
+		306B9F1818C8EDDA00392051 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				306B9F1918C8EDF400392051 /* SMSimpleCarouselViewController.h */,
+				306B9F1A18C8EDF400392051 /* SMSimpleCarouselViewController.m */,
+				306B9F1B18C8EDF400392051 /* SMSimpleCarouselViewController.xib */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		306B9ECC18C8E8E900392051 /* SMCarouselProj */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 306B9EF918C8E8E900392051 /* Build configuration list for PBXNativeTarget "SMCarouselProj" */;
+			buildPhases = (
+				BDF14A45B9C2466CB1D035E3 /* Check Pods Manifest.lock */,
+				306B9EC918C8E8E900392051 /* Sources */,
+				306B9ECA18C8E8E900392051 /* Frameworks */,
+				306B9ECB18C8E8E900392051 /* Resources */,
+				EA019B8D67F74C53A6504329 /* Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SMCarouselProj;
+			productName = SMCarouselProj;
+			productReference = 306B9ECD18C8E8E900392051 /* SMCarouselProj.app */;
+			productType = "com.apple.product-type.application";
+		};
+		306B9EE718C8E8E900392051 /* SMCarouselProjTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 306B9EFC18C8E8E900392051 /* Build configuration list for PBXNativeTarget "SMCarouselProjTests" */;
+			buildPhases = (
+				306B9EE418C8E8E900392051 /* Sources */,
+				306B9EE518C8E8E900392051 /* Frameworks */,
+				306B9EE618C8E8E900392051 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				306B9EEE18C8E8E900392051 /* PBXTargetDependency */,
+			);
+			name = SMCarouselProjTests;
+			productName = SMCarouselProjTests;
+			productReference = 306B9EE818C8E8E900392051 /* SMCarouselProjTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		306B9EC518C8E8E900392051 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = SM;
+				LastUpgradeCheck = 0500;
+				ORGANIZATIONNAME = SM;
+				TargetAttributes = {
+					306B9EE718C8E8E900392051 = {
+						TestTargetID = 306B9ECC18C8E8E900392051;
+					};
+				};
+			};
+			buildConfigurationList = 306B9EC818C8E8E900392051 /* Build configuration list for PBXProject "SMCarouselProj" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 306B9EC418C8E8E900392051;
+			productRefGroup = 306B9ECE18C8E8E900392051 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				306B9ECC18C8E8E900392051 /* SMCarouselProj */,
+				306B9EE718C8E8E900392051 /* SMCarouselProjTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		306B9ECB18C8E8E900392051 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				306B9EDB18C8E8E900392051 /* InfoPlist.strings in Resources */,
+				306B9EE318C8E8E900392051 /* Images.xcassets in Resources */,
+				306B9F1D18C8EDF400392051 /* SMSimpleCarouselViewController.xib in Resources */,
+				306B9F2218C8EE2300392051 /* SMExampleCell.xib in Resources */,
+				306B9F0718C8EAD100392051 /* SMCarousel.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		306B9EE618C8E8E900392051 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				306B9EF418C8E8E900392051 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		BDF14A45B9C2466CB1D035E3 /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		EA019B8D67F74C53A6504329 /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Pods-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		306B9EC918C8E8E900392051 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				306B9F0518C8EAC300392051 /* SMCarousel.m in Sources */,
+				306B9F1618C8EDBF00392051 /* SMExampleCarouselDataSource.m in Sources */,
+				306B9F0F18C8EC4C00392051 /* SMCarouselDataSource.m in Sources */,
+				306B9EE118C8E8E900392051 /* SMAppDelegate.m in Sources */,
+				306B9F1C18C8EDF400392051 /* SMSimpleCarouselViewController.m in Sources */,
+				306B9EDD18C8E8E900392051 /* main.m in Sources */,
+				306B9F2018C8EE1300392051 /* SMExampleCell.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		306B9EE418C8E8E900392051 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				306B9EF618C8E8E900392051 /* SMCarouselProjTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		306B9EEE18C8E8E900392051 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 306B9ECC18C8E8E900392051 /* SMCarouselProj */;
+			targetProxy = 306B9EED18C8E8E900392051 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		306B9ED918C8E8E900392051 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				306B9EDA18C8E8E900392051 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		306B9EF218C8E8E900392051 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				306B9EF318C8E8E900392051 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		306B9EF718C8E8E900392051 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		306B9EF818C8E8E900392051 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		306B9EFA18C8E8E900392051 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4E3DC0E51FCC4C089D535D2E /* Pods.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SMCarouselProj/SMCarouselProj-Prefix.pch";
+				INFOPLIST_FILE = "SMCarouselProj/SMCarouselProj-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		306B9EFB18C8E8E900392051 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4E3DC0E51FCC4C089D535D2E /* Pods.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SMCarouselProj/SMCarouselProj-Prefix.pch";
+				INFOPLIST_FILE = "SMCarouselProj/SMCarouselProj-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		306B9EFD18C8E8E900392051 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/SMCarouselProj.app/SMCarouselProj";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SMCarouselProj/SMCarouselProj-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "SMCarouselProjTests/SMCarouselProjTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		306B9EFE18C8E8E900392051 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/SMCarouselProj.app/SMCarouselProj";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SMCarouselProj/SMCarouselProj-Prefix.pch";
+				INFOPLIST_FILE = "SMCarouselProjTests/SMCarouselProjTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		306B9EC818C8E8E900392051 /* Build configuration list for PBXProject "SMCarouselProj" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				306B9EF718C8E8E900392051 /* Debug */,
+				306B9EF818C8E8E900392051 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		306B9EF918C8E8E900392051 /* Build configuration list for PBXNativeTarget "SMCarouselProj" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				306B9EFA18C8E8E900392051 /* Debug */,
+				306B9EFB18C8E8E900392051 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		306B9EFC18C8E8E900392051 /* Build configuration list for PBXNativeTarget "SMCarouselProjTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				306B9EFD18C8E8E900392051 /* Debug */,
+				306B9EFE18C8E8E900392051 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 306B9EC518C8E8E900392051 /* Project object */;
+}
