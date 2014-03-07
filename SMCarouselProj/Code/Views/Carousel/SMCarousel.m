@@ -41,6 +41,7 @@
     BOOL theThingThatGotLoadedWasJustAPlaceholder = ([[self subviews] count] == 0);
     if (theThingThatGotLoadedWasJustAPlaceholder) {
         SMCarousel *view = [SMCarousel createView];
+        view.backgroundColor = self.backgroundColor;
         view.frame = self.frame;
         view.alpha = self.alpha;
         return view;
