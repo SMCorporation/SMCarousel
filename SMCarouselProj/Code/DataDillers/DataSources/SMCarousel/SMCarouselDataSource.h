@@ -12,7 +12,4 @@
 
 - (id)initWithDataProvider:(SMBaseDataProvider *)dataProvider;
 
-- (Class)classForCellAtIndexPath:(NSIndexPath *)indexPath;
-- (void)fillCell:(UICollectionViewCell *)cell atIndexPath:(NSIndexPath *)indexPath;
-
 @end

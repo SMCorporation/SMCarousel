@@ -16,11 +16,7 @@ static CGFloat const kSpaceBetweenItems = 10;
 
 - (id)initWithDataProvider:(SMBaseDataProvider *)dataProvider
 {
-    self = [super initWithDataProvider:dataProvider collectionView:nil];
-    if(self) {
-        
-    }
-    return self;
+    return (self = [super initWithDataProvider:dataProvider collectionView:nil]);
 }
 
 
@@ -30,12 +26,6 @@ static CGFloat const kSpaceBetweenItems = 10;
 - (Class)classForCellAtIndexPath:(NSIndexPath *)indexPath
 {
     return [SMBaseCarouselCell class];
-}
-
-- (void)fillCell:(UICollectionViewCell *)cell atIndexPath:(NSIndexPath *)indexPath
-{
-    //------- Fill cells with items from dataProvider ------
-    //id item = [self.dataProvider itemAtIndexPath:indexPath];
 }
 
 - (void)didSelectedRowAtIndexPath:(NSIndexPath *)indexPath
@@ -51,16 +41,6 @@ static CGFloat const kSpaceBetweenItems = 10;
 
 #pragma mark -
 #pragma mark UICollectionViewDelegateFlowLayout
-
-- (CGSize)collectionView:(UICollectionView *)collectionView
-                  layout:(UICollectionViewLayout*)collectionViewLayout sizeForItemAtIndexPath:(NSIndexPath *)indexPath
-{
-    Class cellClass = [self classForCellAtIndexPath:indexPath];
-    if([cellClass respondsToSelector:@selector(size)]) {
-        [cellClass size];
-    }
-    return CGSizeZero;
-}
 
 - (CGFloat)collectionView:(UICollectionView *)collectionView layout:(UICollectionViewLayout*)collectionViewLayout minimumInteritemSpacingForSectionAtIndex:(NSInteger)section
 {
