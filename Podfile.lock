@@ -1,10 +1,10 @@
 PODS:
-  - SMDataDiller (0.0.2)
+  - SMDataDiller (0.0.4)
 
 DEPENDENCIES:
   - SMDataDiller
 
 SPEC CHECKSUMS:
-  SMDataDiller: 8efa3a5e80f4dfc0b772de2988bd64bf698361bc
+  SMDataDiller: 9791102d08e3a929bbac66942617c1b31a181871
 
 COCOAPODS: 0.29.0
